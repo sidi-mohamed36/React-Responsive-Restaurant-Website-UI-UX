@@ -1,6 +1,6 @@
 # Restaurant Website by React.js
 
-![Restaurant website](/src/assets/screen.png 'restau')
+![Restaurant website](/src/assets/screen.PNG 'restau')
 
 [VIEW DEMO](https://react-responsive-resta.vercel.app/)
 
