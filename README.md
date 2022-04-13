@@ -2,7 +2,7 @@
 
 ![Restaurant website](/src/assets/screen.PNG 'restau')
 
-[VIEW DEMO](https://react-responsive-resta.vercel.app/)
+[VIEW DEMO](https://react-responsive-resta.vercel.app/) <===
 
 ## Usage
 
